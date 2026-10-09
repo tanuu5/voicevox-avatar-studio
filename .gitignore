@@ -1,0 +1,25 @@
+node_modules/
+.DS_Store
+.env
+
+# 生成物（話させた文の音声と、書き出した動画）
+public/audio/
+public/clips/
+
+# 公式キャラクター（VOICEVOX の話者）の生成イラストは同梱しない。
+# 手元に置けば動く（README の「立ち絵を用意する」を参照）。
+public/assets/zundamon.png
+public/assets/metan.png
+public/assets/tsumugi.png
+public/assets/kiritan.png
+
+# 公式キャラクターが写っている確認用の画像
+preview.jpg
+metan-preview.jpg
+tsumugi-preview.jpg
+kiritan-preview.jpg
+audio-fixed.jpg
+blink-fixed.jpg
+
+# 作業用のメモ（公開しない）
+改善メモ.md

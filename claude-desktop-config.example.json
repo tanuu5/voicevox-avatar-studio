@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "avatar-studio": {
+      "command": "node",
+      "args": ["<このフォルダの絶対パス>/mcp.mjs"],
+      "env": {
+        "VOICEVOX_URL": "http://127.0.0.1:50021",
+        "AVATAR_STUDIO_PORT": "3210"
+      }
+    }
+  }
+}

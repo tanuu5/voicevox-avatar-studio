@@ -1,0 +1,23 @@
+{
+  "name": "voicevox-avatar-studio",
+  "version": "2.0.0",
+  "description": "VOICEVOX の声で、表情シートの立ち絵に口パクとまばたきを付けて動かすローカルスタジオと MCP サーバー（非公式）",
+  "author": "たぬ",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.2"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "mcp": "node mcp.mjs",
+    "test": "node test.mjs",
+    "test:renderer": "node test-renderer.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "@napi-rs/canvas": "^1.0.10",
+    "zod": "^3.25.76"
+  }
+}

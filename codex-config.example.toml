@@ -1,0 +1,11 @@
+# Codex の MCP 設定（~/.codex/config.toml）に、このブロックを追加します。
+# 既存の設定全体を置き換えないでください。
+[mcp_servers.avatar-studio]
+command = "node"
+args = ["<このフォルダの絶対パス>/mcp.mjs"]
+startup_timeout_sec = 20
+tool_timeout_sec = 180
+
+[mcp_servers.avatar-studio.env]
+VOICEVOX_URL = "http://127.0.0.1:50021"
+AVATAR_STUDIO_PORT = "3210"

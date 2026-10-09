@@ -1,0 +1,248 @@
+[
+  {
+    "id": "zundamon",
+    "name": "ずんだもん",
+    "sprite": "/assets/zundamon.png",
+    "face": {
+      "eyes": [
+        194,
+        316
+      ],
+      "eyeY": 250,
+      "rx": 36,
+      "ry": 42,
+      "mouthX": 256,
+      "mouthY": 300,
+      "skin": "#ffe3d0"
+    },
+    "sample": "こんにちは、ずんだもんなのだ。今日は、MCPで表情と口パクを動かしているのだ！",
+    "voice": "zundamon"
+  },
+  {
+    "id": "metan",
+    "name": "四国めたん",
+    "sprite": "/assets/metan.png",
+    "face": {
+      "eyes": [
+        211,
+        303
+      ],
+      "eyeY": 220,
+      "rx": 36,
+      "ry": 44,
+      "mouthX": 259,
+      "mouthY": 274,
+      "skin": "#fde8df",
+      "offsets": [
+        [
+          0,
+          0
+        ],
+        [
+          0.8,
+          0
+        ],
+        [
+          0.5,
+          -0.1
+        ],
+        [
+          2.4,
+          -0.8
+        ],
+        [
+          1.5,
+          -0.4
+        ],
+        [
+          3.6,
+          -0.6
+        ]
+      ]
+    },
+    "sample": "こんにちは、四国めたんです。今日は、MCPで表情と口パクを動かしています。",
+    "voice": "metan"
+  },
+  {
+    "id": "tsumugi",
+    "name": "春日部つむぎ",
+    "sprite": "/assets/tsumugi.png",
+    "face": {
+      "eyes": [
+        216,
+        306
+      ],
+      "eyeY": 229,
+      "rx": 35,
+      "ry": 41,
+      "mouthX": 263,
+      "mouthY": 282,
+      "skin": "#fdeddd",
+      "offsets": [
+        [
+          0,
+          0
+        ],
+        [
+          21.6,
+          -2
+        ],
+        [
+          23,
+          -2.8
+        ],
+        [
+          -5.5,
+          -1.1
+        ],
+        [
+          21.3,
+          -1.9
+        ],
+        [
+          20.8,
+          -3.5
+        ]
+      ]
+    },
+    "sample": "こんにちは、春日部つむぎです。今日は、MCPで表情と口パクを動かしています。",
+    "voice": "tsumugi"
+  },
+  {
+    "id": "kiritan",
+    "name": "東北きりたん",
+    "sprite": "/assets/kiritan.png",
+    "face": {
+      "eyes": [
+        207,
+        309
+      ],
+      "eyeY": 238,
+      "rx": 35,
+      "ry": 39,
+      "mouthX": 258,
+      "mouthY": 283,
+      "skin": "#fde4da",
+      "offsets": [
+        [
+          0,
+          0
+        ],
+        [
+          13.5,
+          -0.1
+        ],
+        [
+          4.8,
+          0
+        ],
+        [
+          0.1,
+          11.8
+        ],
+        [
+          13.5,
+          11.8
+        ],
+        [
+          4.9,
+          11.7
+        ]
+      ]
+    },
+    "sample": "こんにちは、東北きりたんです。今日は、MCPで表情と口パクを動かしています。",
+    "voice": "kiritan"
+  },
+  {
+    "id": "kuroe",
+    "name": "くろえ",
+    "voice": "tsumugi",
+    "sprite": "/assets/kuroe.png",
+    "face": {
+      "eyes": [
+        227,
+        321
+      ],
+      "eyeY": 202,
+      "rx": 39,
+      "ry": 48,
+      "mouthX": 273,
+      "mouthY": 264,
+      "skin": "#fee8d7",
+      "offsets": [
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          -0.6
+        ],
+        [
+          18,
+          0
+        ],
+        [
+          -2,
+          0
+        ],
+        [
+          11.5,
+          -0.6
+        ],
+        [
+          14.5,
+          0
+        ]
+      ]
+    },
+    "sample": "こんにちは、くろえです。今日は、わかりやすく解説していきます。"
+  },
+  {
+    "id": "crab",
+    "name": "ゆるカニ",
+    "voice": "zundamon",
+    "sprite": "/assets/crab.png",
+    "face": {
+      "eyes": [
+        205,
+        319
+      ],
+      "eyeY": 250,
+      "rx": 36,
+      "ry": 55,
+      "mouthX": 262,
+      "mouthY": 294,
+      "skin": "#fe754c",
+      "mouthRx": 24,
+      "mouthRy": 11,
+      "offsets": [
+        [
+          0,
+          0
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          0,
+          16
+        ],
+        [
+          6,
+          16
+        ],
+        [
+          12,
+          16
+        ]
+      ]
+    },
+    "sample": "こんにちは、カニなのだ。のんびり解説していくのだ！"
+  }
+]
