@@ -18,6 +18,6 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.27.1",
     "@napi-rs/canvas": "^1.0.10",
-    "zod": "^3.25.76"
+    "zod": "^4.6.7"
   }
 }
